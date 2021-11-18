@@ -2,15 +2,9 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
 
-    int n;
-
-    cout << "Hello World";
-
-    return 0;
-
-
-
+cout << "ELLS";
 
 }
