@@ -1,6 +1,11 @@
-<img src="logo.jpg"> 
-## 👥 Our team
+<p align="center">
+  <img src="banner.jpg" />
+</p>
 
+
+		
+		
+## 👥 Our Team:
 
 - Lubomir Georgiev-Scrum trainer and Leader
 
