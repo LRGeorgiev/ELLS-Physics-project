@@ -28,7 +28,9 @@ int main() {
             cout << num1 << "J" << " / " << num2 << "s" << " = " << num1 / num2 << "J/s";
             break;
 
-  
+        case '4':
+            cout << num1 << "kg" << " * " << num2 << "m/s" << " = " << num1 * num2 << "N";
+            break;
 
         default:
             cout << "Error!";
