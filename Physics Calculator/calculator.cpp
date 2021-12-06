@@ -9,6 +9,9 @@ int main()
 	bool calcOn = true;
 	char op;
 	float num1, num2;
+	cout << "===================================================== \n";
+	cout << " \t\tPHYSICS PROJECT\t \n ";
+	cout << "===================================================== \n";
 	while (calcOn != false) {
 		cout << "*******************************\n";
 		cout << " 1 - Calculator.\n";
