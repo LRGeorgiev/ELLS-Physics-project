@@ -23,7 +23,7 @@ Download the application from [github](https://github.com/LRGeorgiev/ELLS-Physic
 ## How to Use?
 
 ```html
-Once you open the program just simply tell it what to do and enjoy your time
+To use the calculator just choose the formula you want and then type two numbers
 ```
 
 ## Future updates
