@@ -1,6 +1,6 @@
 # Physics Calculator
 
-![ELLS Team Logo](logo.png)
+![ELLS Team Logo](logo.PNG)
 
 ### Physics Calculator
 
