@@ -1,26 +1,35 @@
-<p align="center">
-  <img src="banner.jpg" />
-</p>
+# Physics Calculator
+
+![ELLS Team Logo](logo.jpg)
+
+### Physics Calculator
+
+>Our Team
+
+| Names  | Role |
+| ------------- | ------------- |
+| Lubomir Georgiev  | Scrum trainer and Leader  |
+| Eric Ivanov and Stanislav Yordanov  | Back-End developers  |
+| Lorena Hristova  | QA engineer  |
 
 
-		
-		
-## 👥 Our Team:
 
-- Lubomir Georgiev-Scrum trainer and Leader
+## Installation
 
-- Eric Ivanov and Stanislav Yordanov- Back-End developers
+Download the application from [github](https://github.com/LRGeorgiev/ELLS-Physics-project.git) by pressing the green code button and than press "Download ZIP". 
 
-- Lorena Hristova- QA engineer
 
-## 🚀 Languages and Tools:
-<p align="left"> 
-	<a> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-  <a> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/> </a>
-<br/>
 
-## Short description
-This is a Physics calculator where you can calculate different formulas and values.
+## How to Use?
 
+```html
+Once you open the program just simply tell it what to do and enjoy your time
+```
+
+## Future updates
+
+-adding more physics formulas to our calculator
+
+## Thank you for using our app
+If you support our project, you can always share it on social media.
 
