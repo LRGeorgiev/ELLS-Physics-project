@@ -21,4 +21,5 @@
 <br/>
 
 ## Short description
+This is a Physics calculator where you can calculate different formulas and values.
 
