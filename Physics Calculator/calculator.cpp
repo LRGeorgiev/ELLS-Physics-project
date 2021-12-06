@@ -9,6 +9,7 @@ int main()
 	bool calcOn = true;
 	char op;
 	float num1, num2;
+	// The title
 	cout << "===================================================== \n";
 	cout << " \t\tPHYSICS PROJECT\t \n ";
 	cout << "===================================================== \n";
@@ -95,5 +96,6 @@ int main()
 		}
 
 	}
+	//The end of the program
 	return 0;
 }
